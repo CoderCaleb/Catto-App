@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Catto-App/static/css/main.634b633e.css",
+    "main.js": "/Catto-App/static/js/main.39b83cea.js",
+    "static/media/Screenshot 2023-04-07 at 8.15.22 PM.png": "/Catto-App/static/media/Screenshot 2023-04-07 at 8.15.22 PM.a37395611eeaaa82ced4.png",
+    "static/media/nothing-to-see-img.png": "/Catto-App/static/media/nothing-to-see-img.39cf6730d7217de007dc.png",
+    "index.html": "/Catto-App/index.html",
+    "main.634b633e.css.map": "/Catto-App/static/css/main.634b633e.css.map",
+    "main.39b83cea.js.map": "/Catto-App/static/js/main.39b83cea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.634b633e.css",
+    "static/js/main.39b83cea.js"
+  ]
+}
